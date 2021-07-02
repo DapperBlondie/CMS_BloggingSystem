@@ -26,7 +26,6 @@
                 {
                     echo "<li><a href=\"#\">{$row["cat_title"]}</a></li>";
                 }
-
                 ?>
                <!-- <li>
                     <a href="#">About</a>
