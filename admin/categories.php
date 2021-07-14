@@ -11,7 +11,7 @@ include "./header.php";
 
     <!-- Navigation -->
     <?php
-    include "navigation.php";
+    include "./navigation.php";
     ?>
 
     <div id="page-wrapper">
